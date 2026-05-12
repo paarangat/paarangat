@@ -5,7 +5,7 @@
 
 ## About Me
 
-Founding engineer building AI products end-to-end from agent design, real-time streaming, native mobile to full-stack web. Most of what I ship runs in production or beta with real users.
+Founding engineer building AI products end to end: agent design, real-time streaming, native mobile, full-stack web. Most of what I ship runs in production or beta with real users.
 
 Currently working across a Claude-powered iOS agent in closed beta, a healthcare AI scribe, and a fleet of React Native apps on the App Store. Claude Code is my daily driver.
 
@@ -13,9 +13,38 @@ Final-year B.Tech CS (AI) at Bennett University. CGPA 9.54, Dean's List.
 
 ## Key Projects
 
-- **GutBut** — Claude-powered AI gut-health companion on iOS. Solo-built 4 codebases (~25k LOC) in 1 month; designed the Claude agent, SSE streaming, and prompt-management system.
-- **Clinical AI Scribe** — Ambient AI scribe for NHS doctors. Built the Chrome extension from scratch (MV3, tab audio capture), the clinical recording workflow, and the marketing site.
-- **Real-time LLM Desktop App** — Multi-model orchestration in Electron. Architected the screen-capture → dedup → LLM → streamed-output pipeline at sub-3s latency.
-- **Siddhartha & Kathavani** — Storytelling iOS apps live on the App Store. Owned end-to-end React Native delivery. 1000+ Users. 
-- **Univis** — AI vision board SaaS. Built the 780+ line structured prompt system, payments, and storage layer. Pre-launch.
-- **ResQ** — Multimodal AI disaster verification pipeline (EfficientNet, MobileNet, YOLOv5, Gemini). Built the frontend and verification flow. 2nd / 147 teams.
+- **GutBut** : AI wellness companion. Solo-built 4 codebases in 1 month: iOS app, web app, admin dashboard, and backend.
+- **Clinical AI Scribe** : Ambient AI scribe for NHS doctors. Contributed ~60% of the codebase across the main app, admin dashboard, backend, Chrome extension, and marketing site.
+- **Real-time LLM Desktop App** : Multi-model orchestration in Electron. Claude for developers: captures the screen and surfaces the next debugging step based on the error or prompt.
+- **Siddhartha & Kathavani** : Storytelling iOS apps live on the App Store. End-to-end React Native delivery.
+- **WatchIQ** : iOS app that scans a watch and returns its market price.
+- **Phoenix** *(Life Reset)* : 21-day habit-tracker iOS app.
+- **PokeScan** : Scan Pokémon cards to value them, with a built-in AI assistant.
+- **WakeCall AI** : Wake-up alarm that calls you with daily updates instead of buzzing.
+- **Univis** : AI vision board SaaS for manifestation enthusiasts. Built entirely solo: landing page, dashboard, AI orchestration, Dodo payments, Cloudflare R2 storage, Supabase auth. Pre-launch.
+- **ResQ** : Disaster verification platform. Built frontend, backend, and multimodal AI verification pipeline. 2nd / 147 teams.
+- **Talx** : Open-source alternative to Wispr Flow. Desktop app using Groq API + Whisper for free, fast voice input. Open source.
+
+## Tech Stack
+
+**Languages:** TypeScript, JavaScript, Python, SQL
+
+**Frontend:** React, Next.js, React Native, Expo, Tailwind CSS
+
+**Backend:** Node.js, NestJS, Express, Electron, Chrome Extension MV3
+
+**Database & Cloud:** PostgreSQL, Supabase, Redis, Cloudflare R2, Vercel, Railway
+
+**AI / LLM:** Claude API, OpenAI, Gemini, Groq, Whisper
+
+**Real-time & Streaming:** Socket.IO, WebSocket, Server-Sent Events
+
+**Payments & Observability:** Dodo Payments, PostHog
+
+**Tools:** Claude Code, Git, GitHub, Figma, Vitest
+
+## Contact
+
+📫 **hello@parangat.com**
+🔗 [LinkedIn](https://linkedin.com/in/Parangat)
+🐦 [Twitter](https://twitter.com/Parangat)
