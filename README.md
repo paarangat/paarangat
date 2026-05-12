@@ -15,7 +15,7 @@ Final-year B.Tech CS (AI) at Bennett University. CGPA 9.54, Dean's List.
 
 - **GutBut** : AI wellness companion. Solo-built 4 codebases in 1 month: iOS app, web app, admin dashboard, and backend.
 - **Clinical AI Scribe** : Ambient AI scribe for NHS doctors. Contributed ~60% of the codebase across the main app, admin dashboard, backend, Chrome extension, and marketing site.
-- **Real-time LLM Desktop App** : Multi-model orchestration in Electron. Claude for developers: captures the screen and surfaces the next debugging step based on the error or prompt.
+- **Real-time LLM Desktop App** : Multi-model orchestration in Electron. Cluely but for developers: captures the screen and surfaces the next debugging step based on the error or prompt.
 - **Siddhartha & Kathavani** : Storytelling iOS apps live on the App Store. End-to-end React Native delivery.
 - **WatchIQ** : iOS app that scans a watch and returns its market price.
 - **Phoenix** *(Life Reset)* : 21-day habit-tracker iOS app.
