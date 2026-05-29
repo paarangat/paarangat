@@ -5,9 +5,9 @@
 
 ## About Me
 
-Founding engineer building AI products end to end: agent design, real-time streaming, native mobile, full-stack web. Most of what I ship runs in production or beta with real users.
+Fullstack x AI Product Engineer building AI products end to end: agent design, real-time streaming, native mobile, full-stack web. Most of what I ship runs in production or beta with real users.
 
-Currently working across a Claude-powered iOS agent in closed beta, a healthcare AI scribe, and a fleet of React Native apps on the App Store. Claude Code is my daily driver.
+Recently worked across a AI-powered iOS wellness agent, a healthcare AI scribe, and a fleet of React Native apps on the App Store. Claude Code is my daily driver.
 
 Final-year B.Tech CS (AI) at Bennett University. CGPA 9.54, Dean's List.
 
