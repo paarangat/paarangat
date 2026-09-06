@@ -1,17 +1,14 @@
-### hey, i'm paarangat 👋
+### yo, it's paarangat 👋
 
 ```
-i like systems. especially the quiet ones.
-i code agentically — claude code, daily.
-built things on the internet. can't seem to stop.
+i like to build random things, and am a heavy codex / claude code user (obv lol). 
 ```
 
-#### stuff i've made
+#### stuff i've made just for fun
 
 - **[finzo](https://github.com/paarangat/finzo)** — personal finance that never leaves your laptop
-- **[talx](https://github.com/paarangat/talx)** — hold a key, talk, text appears
+- **[talx](https://github.com/paarangat/talx)** — clone of wispr flow cuz my free trial got over
 - **[build ladder](https://buildladder.com)** — leaderboard for people who actually ship
-- **[siddhartha](https://siddhartha.app)** · **[kathavani](https://kathavani.com)** · **[watchiq](https://watchiq.app)** — little ios apps
 
 #### what i reach for
 
