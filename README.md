@@ -25,6 +25,6 @@ i code agentically using claude code, daily.
 
 #### say hi
 
-[paarangat.dev](https://paarangat.dev) · [linkedin](https://www.linkedin.com/in/paarangat/) · [hello@paarangat.com](mailto:hello@paarangat.com)
+[paarangat.com](https://paarangat.com) · [linkedin](https://www.linkedin.com/in/paarangat/) · [hello@paarangat.com](mailto:hello@paarangat.com)
 
 <sub>ships 24/7.</sub>
