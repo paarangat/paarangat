@@ -1,14 +1,24 @@
-### yo, it's paarangat 👋
+### hey, i'm paarangat 👋
 
 ```
-i like to build random things, and am a heavy codex / claude code user (obv lol). 
+i like systems. especially the quiet ones.
+i code agentically. claude code, daily.
+built things on the internet. can't seem to stop.
 ```
 
-#### stuff i've made just for fun
+#### where i've shipped
 
-- **[finzo](https://github.com/paarangat/finzo)** — personal finance that never leaves your laptop
-- **[talx](https://github.com/paarangat/talx)** — clone of wispr flow cuz my free trial got over
-- **[build ladder](https://buildladder.com)** — leaderboard for people who actually ship
+- **[ambra](https://ambra911.com)** · now. software engineer, building the future of emergency response.
+- **docwise** · ambient ai scribe for nhs doctors.
+- **valtrium** · consumer ios apps, sole dev on the app side.
+- **jettyai** · consumer ai health companion, solo full stack.
+- **nullzec** · realtime desktop agent, orchestration core.
+
+#### my own ships
+
+- **[finzo](https://github.com/paarangat/finzo)** · personal finance that never leaves your laptop.
+- **[talx](https://github.com/paarangat/talx)** · hold a key, talk, text appears.
+- **[build ladder](https://buildladder.com)** · leaderboard for people who actually ship.
 
 #### what i reach for
 
