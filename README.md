@@ -1,9 +1,8 @@
 ### hey, i'm paarangat 👋
 
 ```
-i like systems. especially the quiet ones.
-i code agentically. claude code, daily.
-built things on the internet. can't seem to stop.
+i like building EVERYTHING. whenever I try to bring something to life, its makes me happy!
+i code agentically using claude code, daily. 
 ```
 
 #### where i've shipped
