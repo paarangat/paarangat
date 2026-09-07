@@ -1,4 +1,4 @@
-### hey, i'm paarangat 👋
+### yo, it's paarangat 👋
 
 ```
 i like building EVERYTHING. whenever I try to bring something to life, its makes me happy!
