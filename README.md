@@ -2,7 +2,7 @@
 
 ```
 i like building EVERYTHING. whenever I try to bring something to life, its makes me happy!
-i code agentically using claude code, daily. 
+i like giving agents life.  
 ```
 
 #### where i've shipped
