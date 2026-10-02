@@ -1,7 +1,7 @@
 ### yo, it's paarangat 👋
 
 ```
-i like building EVERYTHING. whenever I try to bring something to life, its makes me happy!
+i like building EVERYTHING. the whole act of creating makes me happy!
 i like giving agents life.  
 ```
 
