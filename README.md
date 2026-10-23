@@ -10,6 +10,14 @@ I've worked across **16+ products** in healthcare, finance, developer tools and 
 
 Outside work, I'm usually building something I wanted for myself.
 
+#### where i've worked
+
+- **Ambra** · Emergency response software, EMS billing and AI workflow evaluations.
+- **Docwise** · An AI scribe for NHS doctors, with clinical audio and document workflows.
+- **Valtrium** · Consumer iOS apps, as the sole developer on the app side.
+- **Jetty AI** · An AI wellness companion across web, mobile and backend.
+- **Nullzec** · Real-time desktop AI and multi-model orchestration.
+
 #### a few things i've made
 
 | Project | The idea |
