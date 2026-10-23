@@ -1,37 +1,37 @@
 <a href="https://paarangat.com">
-  <img src="assets/seaside.png" alt="A quiet Japanese seaside at sunrise, with paarangat.com written in the sky" width="100%" />
+  <img src="assets/seaside.png" alt="a quiet japanese seaside at sunrise, with paarangat.com written in the sky" width="100%" />
 </a>
 
 ### hey, i'm paarangat.
 
-Software engineer & indie hacker building across web, iOS and AI.
+software engineer & indie hacker building across web, ios and ai.
 
-I've worked across **16+ products** in healthcare, finance, developer tools and consumer apps. Some with teams, some on my own. I like being close to the whole product, from the first rough idea to the details people actually use.
+i've worked across **16+ products** in healthcare, finance, developer tools and consumer apps. some with teams, some on my own. i like being close to the whole product, from the first rough idea to the details people actually use.
 
-Outside work, I'm usually building something I wanted for myself.
+outside work, i'm usually building something i wanted for myself.
 
 #### where i've worked
 
-- **Ambra** · Emergency response software, EMS billing and AI workflow evaluations.
-- **Docwise** · An AI scribe for NHS doctors, with clinical audio and document workflows.
-- **Valtrium** · Consumer iOS apps, as the sole developer on the app side.
-- **Jetty AI** · An AI wellness companion across web, mobile and backend.
-- **Nullzec** · Real-time desktop AI and multi-model orchestration.
+- **ambra** · emergency response software, ems billing and ai workflow evaluations.
+- **docwise** · an ai scribe for nhs doctors, with clinical audio and document workflows.
+- **valtrium** · consumer ios apps, as the sole developer on the app side.
+- **jetty ai** · an ai wellness companion across web, mobile and backend.
+- **nullzec** · real-time desktop ai and multi-model orchestration.
 
 #### a few things i've made
 
-| Project | The idea |
+| project | the idea |
 | :--- | :--- |
-| [**Finzo**](https://github.com/paarangat/finzo) | A local-first home for your personal finances. |
-| [**Talx**](https://github.com/paarangat/talx) | Hold a key, say it, see it typed. Dictation for macOS. |
-| [**BuildLadder**](https://buildladder.com) | A leaderboard for indie developers, powered by GitHub activity. |
-| [**Fabelize**](https://github.com/paarangat/fabelize) | Claude plans and reviews. Codex builds. You call the shots. |
-| [**Loopzo**](https://github.com/paarangat/loopzo) | GitHub issue to reviewed PR, with agents and human checkpoints. |
+| [**finzo**](https://github.com/paarangat/finzo) | a local-first home for your personal finances. |
+| [**talx**](https://github.com/paarangat/talx) | hold a key, say it, see it typed. dictation for macos. |
+| [**buildladder**](https://buildladder.com) | a leaderboard for indie developers, powered by github activity. |
+| [**fabelize**](https://github.com/paarangat/fabelize) | claude plans and reviews. codex builds. you call the shots. |
+| [**loopzo**](https://github.com/paarangat/loopzo) | github issue to reviewed pr, with agents and human checkpoints. |
 
-<sub>Usually working with TypeScript, React, Next.js, React Native, Postgres and AI agents.</sub>
+<sub>usually working with typescript, react, next.js, react native, postgres and ai agents.</sub>
 
 ---
 
 [website](https://paarangat.com) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/paarangat/) &nbsp;·&nbsp; [email](mailto:hello@paarangat.com)
 
-<sub>Open to software engineering opportunities.</sub>
+<sub>open to software engineering opportunities.</sub>
