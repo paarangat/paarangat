@@ -18,6 +18,12 @@ outside work, i'm usually building something i wanted for myself.
 - **jetty ai** · an ai wellness companion across web, mobile and backend.
 - **nullzec** · real-time desktop ai and multi-model orchestration.
 
+#### currently building · closed source
+
+- **filterslop** · a browser extension that filters youtube recommendations around what you actually want to watch.
+- **shottie** · ai explainer videos that write, render and critique themselves.
+- **codie** · engineering guidelines and practical checklists for coding agents.
+
 #### a few things i've made
 
 | project | the idea |
