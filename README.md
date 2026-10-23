@@ -1,30 +1,29 @@
-### yo, it's paarangat 👋
+<a href="https://paarangat.com">
+  <img src="assets/seaside.png" alt="A quiet Japanese seaside at sunrise, with paarangat.com written in the sky" width="100%" />
+</a>
 
-```
-i like building EVERYTHING. the whole act of creating makes me happy!
-i like giving agents life.  
-```
+### hey, i'm paarangat.
 
-#### where i've shipped
+Software engineer & indie hacker building across web, iOS and AI.
 
-- **[ambra](https://ambra911.com)** · now. software engineer, building the future of emergency response.
-- **docwise** · ambient ai scribe for nhs doctors.
-- **valtrium** · consumer ios apps, sole dev on the app side.
-- **jettyai** · consumer ai health companion, solo full stack.
-- **nullzec** · realtime desktop agent, orchestration core.
+I've worked across **16+ products** in healthcare, finance, developer tools and consumer apps. Some with teams, some on my own. I like being close to the whole product, from the first rough idea to the details people actually use.
 
-#### my own ships
+Outside work, I'm usually building something I wanted for myself.
 
-- **[finzo](https://github.com/paarangat/finzo)** · personal finance that never leaves your laptop.
-- **[talx](https://github.com/paarangat/talx)** · hold a key, talk, text appears.
-- **[build ladder](https://buildladder.com)** · leaderboard for people who actually ship.
+#### a few things i've made
 
-#### what i reach for
+| Project | The idea |
+| :--- | :--- |
+| [**Finzo**](https://github.com/paarangat/finzo) | A local-first home for your personal finances. |
+| [**Talx**](https://github.com/paarangat/talx) | Hold a key, say it, see it typed. Dictation for macOS. |
+| [**BuildLadder**](https://buildladder.com) | A leaderboard for indie developers, powered by GitHub activity. |
+| [**Fabelize**](https://github.com/paarangat/fabelize) | Claude plans and reviews. Codex builds. You call the shots. |
+| [**Loopzo**](https://github.com/paarangat/loopzo) | GitHub issue to reviewed PR, with agents and human checkpoints. |
 
-`typescript` `next.js` `react native` `nestjs` `postgres` `claude agents`
+<sub>Usually working with TypeScript, React, Next.js, React Native, Postgres and AI agents.</sub>
 
-#### say hi
+---
 
-[paarangat.com](https://paarangat.com) · [linkedin](https://www.linkedin.com/in/paarangat/) · [hello@paarangat.com](mailto:hello@paarangat.com)
+[website](https://paarangat.com) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/paarangat/) &nbsp;·&nbsp; [email](mailto:hello@paarangat.com)
 
-<sub>ships 24/7.</sub>
+<sub>Open to software engineering opportunities.</sub>
